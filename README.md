@@ -41,6 +41,23 @@ Explore flowers that may be suitable for evening use, focusing on pain relief, r
 
 [Explore Evening Flowers](evening-flowers.md)
 
+## Terpenes
+
+Explore the terpenes found in medical cannabis and how they may relate to flavour, aroma, potential health benefits and subjective effects.
+
+The [Terpenes](terpenes.md) guide includes:
+
+- **Terpene overview:** A quick-reference table of common terpenes, their scents, flavours and areas of research.
+- **Flavour and aroma:** Descriptions to help identify and compare different flowers.
+- **Vaping temperatures:** Approximate boiling points and an explanation of how temperature affects terpene release.
+- **Potential health benefits:** An overview of areas being investigated, including pain, inflammation, anxiety and mood.
+- **Subjective effects:** Experiences to monitor, such as relaxation, alertness, motivation, concentration and sleepiness.
+- **Personal observations:** A template for recording how a flower's aroma, terpene profile and effects relate to your own experience.
+
+The aim is to identify possible patterns when comparing medical cannabis products, particularly in relation to bone pain, nerve pain, anxiety, depression and seasonal affective disorder (SAD).
+
+**Important:** Terpene profiles cannot reliably predict how a flower will affect an individual. Much of the research remains preliminary, and personal observations do not establish that a particular terpene caused an effect.
+
 ### Reviewing My Results
 
 Use a consistent template to record experiences, review products, compare effects and identify possible patterns in their impact on mental and physical health.
