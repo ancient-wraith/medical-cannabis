@@ -119,26 +119,3 @@ Any changes to prescribed medication or dosage should be discussed with my presc
 ---
 
 *This repository is an ongoing record of personal research into medical cannabis and its effects on mental and physical wellbeing.*
-
-## Table of Contents
-
-- [Research Goals](#research-goals)
-- [Research Pages](#research-pages)
-  - [Treatment Goals](#treatment-goals)
-  - [Daytime Flowers](#daytime-flowers)
-  - [Evening Flowers](#evening-flowers)
-- [Terpenes](#terpenes)
-- [Reviewing My Results](#reviewing-my-results)
-- [Results](#results)
-- [Research Approach](#research-approach)
-- [Disclaimer](#disclaimer)
-- [Sibling Pages and Resources](#sibling-pages-and-resources)
-
-### Sibling Pages and Resources
-
-- [Treatment Goals](my-treatment-goals.md)
-- [Daytime Flowers](daytime-flowers.md)
-- [Evening Flowers](evening-flowers.md)
-- [Terpenes](terpenes.md)
-- [Reviewing My Results](reviewing-my-results.md)
-- [Individual Product Results](results/README.md)
