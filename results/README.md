@@ -5,6 +5,7 @@ This directory contains personal reviews and observations of prescribed medical 
 ## Table of Contents
 
 - [Overview](#overview)
+- [Flowers Reviewed](#flowers-reviewed)
 - [What the Results Mean](#what-the-results-mean)
 - [Comparing Products](#comparing-products)
 - [Limitations](#limitations)
@@ -15,6 +16,12 @@ This directory contains personal reviews and observations of prescribed medical 
 Individual result files document experiences with specific products. Depending on the review, records may include product details (such as THC/CBD content and cost), dose and timing, perceived effects on mental and physical symptoms, sleep and next-day functioning, unwanted effects, and product quality.
 
 Use each individual review for the observations and context specific to that product.
+
+## Flowers Reviewed
+
+- [IPS Grape Galena](01.%20grape-galena.md)
+
+This list links to the individual flower reviews currently recorded in this directory and can be updated as more products are reviewed.
 
 ## What the Results Mean
 
