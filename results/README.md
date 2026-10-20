@@ -19,7 +19,7 @@ Use each individual review for the observations and context specific to that pro
 
 ## Flowers Reviewed
 
-- [IPS Grape Galena](01.%20grape-galena.md)
+- [IPS Grape Galena](01-grape-galena.md)
 
 This list links to the individual flower reviews currently recorded in this directory and can be updated as more products are reviewed.
 
